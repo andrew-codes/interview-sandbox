@@ -29,6 +29,9 @@
   "references": [
     {
       "path": "./tsconfig.cypress.json"
+    },
+    {
+      "path": "./tsconfig.jest.json"
     }
   ],
   "exclude": ["node_modules", "tmp", "cypress-image-diff.config.js"],

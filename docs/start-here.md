@@ -40,6 +40,9 @@ yarn run test/component/ci
 
 # Tooling to update baseline images for visual regressions or to see all baseline images in a friendly UX
 yarn run test/component/update
+
+# Unit tests
+yarn run test/unit
 ```
 
 ## Conclusion
